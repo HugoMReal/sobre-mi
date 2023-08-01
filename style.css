@@ -1,0 +1,27 @@
+/*Divido en Titulo/Temas/Datos/Multimedia para que cada categoria tenga un estilo que 
+haga más facil la lectura, el contraste de colores tambien.*/
+
+.Temas {
+        text-align: center;
+        background-color: lightblue;
+        font-family: Cambria;
+    }
+
+.Datos {
+        text-align: left;
+        background-color:lightcyan;
+        border-style: dotted;
+        font-family: Cambria;
+}
+
+.Titulo {
+        text-align: center;
+        text-decoration-line:underline;
+        font-family: Cambria;
+}
+
+.Multimedia {
+        text-align: center;
+        background-color:lightcyan;
+        border-style: dotted;
+}
